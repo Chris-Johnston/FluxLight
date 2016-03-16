@@ -20,4 +20,5 @@ After some experimenting, I noticed that my bulb was tinting all of the colors v
 
 ## Credit
 [TannerHelland.com for the K to RGB algorithm](http://www.tannerhelland.com/4435/convert-temperature-rgb-algorithm-code/)
+
 Chris Johnston 2016
