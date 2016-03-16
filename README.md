@@ -1,5 +1,6 @@
 # FluxLight
 Controls a cheap RGB Wifi Lightbulb to mimick the color temperature changing patterns of f.lux, using python3.
+[Demo Here](https://gfycat.com/DrearyIdioticFlyingfox)
 
 ### Usage
 This is only intended for use with the [MagicLight Wifi LED Lightbulb](http://www.amazon.com/MagicLight%C2%AE-WiFi-LED-Light-Bulb/dp/B00SIDVZSW). For this purpose it is independent of the Anroid/iOS application; you will still need the app for configuration and regular use.
