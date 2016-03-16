@@ -10,9 +10,6 @@ K_MAX = 6500
 K_MIN = 2000
 HOUR_OFFSET = 13 + 2 # what hour is the middle of the day (bluest)
 
-test = datetime.datetime(2016, 1, 1, 1,00)
-
-
 UPDATE_DELAY = 30 * 60 # update every 30 minutes
 frequency = 60 * 60 * 24 # number of seconds in 1 day, don't change this unless you want a <24hr frequency
 
